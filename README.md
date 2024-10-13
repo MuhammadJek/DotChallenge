@@ -15,7 +15,7 @@ Terdapat fitur crud untuk artikel post dan category.
 
 ## Teknologi yang digunakan
 
-Saya menggunakan teknologi laravel (https://laravel.com) untuk API saya yang di convert dalam bentuk json.
+Saya menggunakan teknologi [laravel](https://laravel.com) untuk API saya yang di convert dalam bentuk json.
 
 ## 
 
