@@ -65,10 +65,10 @@ class PostController extends Controller
 
             if ($validator->fails()) {
                 return response()->json([
-                     'message' => 'Gagal Memasukkan data',
-                       'status' => false,
+                    'message' => 'Gagal Memasukkan data',
+                    'status' => false,
                     'data' => $validator->errors(),
-                 ],422);
+                ], 422);
             }
 
 
@@ -145,19 +145,19 @@ class PostController extends Controller
                 ], 404);
             }
 
-            $validation = Validator::make($request->all(), [
+            $validator = Validator::make($request->all(), [
                 'title' => 'required|max:225',
                 'description' => 'required',
                 'author' => 'exists:users,id|integer',
                 'category' => 'required|exists:categories,id|integer',
             ]);
 
-            if ($validation->fails()) {
+            if ($validator->fails()) {
                 return response()->json([
-                     'message' => 'Gagal Memasukkan data',
-                       'status' => false,
+                    'message' => 'Gagal Memasukkan data',
+                    'status' => false,
                     'data' => $validator->errors(),
-                 ],422);
+                ], 422);
             }
 
 
