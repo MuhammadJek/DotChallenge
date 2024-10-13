@@ -48,7 +48,6 @@ class AuthController extends Controller
                 'password' => Hash::make(request('password')),
 
             ]);
-            // $token = Auth::guard('api')->login($user);
             DB::commit();
             return response()->json(['message' => 'Register berhasil']);
         } catch (\Throwable $th) {

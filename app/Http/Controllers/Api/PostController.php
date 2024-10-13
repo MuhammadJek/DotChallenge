@@ -90,7 +90,7 @@ class PostController extends Controller
                 'message' => "Data fails returned",
                 'status' => false,
             ], 400);
-            // throw $th;
+            throw $th;
         }
     }
 
