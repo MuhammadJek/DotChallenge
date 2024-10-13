@@ -23,6 +23,10 @@ Saya menggunakan teknologi [laravel](https://laravel.com) untuk API saya yang di
 
 GAMBAR HASIL API APLIKASI POSTCATEGORY API.
 
+!! SELAIN LOGIN DAN REGISTER SILAHKAN TAMBAHKAN Headers !!
+![image](https://github.com/user-attachments/assets/d63a76f7-cd27-48f8-a521-cc492a8ca067)
+
+
 #LOGIN
 ![image](https://github.com/user-attachments/assets/542539fc-74a9-4786-a500-2bec3f94c5f0)
 
@@ -43,6 +47,32 @@ GAMBAR HASIL API APLIKASI POSTCATEGORY API.
 ![image](https://github.com/user-attachments/assets/9e9e76f6-f77a-470c-9d09-c7f205a52860)
 
 #UPDATE POST
+![image](https://github.com/user-attachments/assets/30cecce4-f952-404e-868e-83283c617fc7)
+
+#DETAIL POST
+![image](https://github.com/user-attachments/assets/4d9244a4-60f5-429f-9e29-0eeec78534b3)
+
+#DELETE
+![image](https://github.com/user-attachments/assets/5fffca32-ebdb-48e2-bfe4-e575093909b9)
+
+
+
+#LIST CATEGORY
+![image](https://github.com/user-attachments/assets/1d8e31ed-41e4-473f-95ec-a41ad52b2de5)
+
+#STORE CATEGORY
+![image](https://github.com/user-attachments/assets/7b3e8a16-f7b6-45b1-a814-2a770f76dfdb)
+
+#UPDATE CATEGORY
+![image](https://github.com/user-attachments/assets/062eeed5-3862-494e-a8a7-35744083ebc5)
+
+#DETAIL CATEGORY
+![image](https://github.com/user-attachments/assets/f71a14b1-b543-46b9-b109-d7a12439cd00)
+
+#DELETE CATEGORY
+![image](https://github.com/user-attachments/assets/a614a5c9-f569-4041-ba54-a31384cc62e3)
+
+
 
 
 
