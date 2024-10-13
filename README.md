@@ -12,7 +12,7 @@
 Api nya yang saya buat bisa untuk fitur Authentication dengan lengkap seperti register,login, dan logout.
 Terdapat fitur crud untuk artikel post dan category.
 
-#Link untuk desain Database / ERD
+##Link untuk desain Database / ERD
 (https://lucid.app/lucidchart/93efe69c-6863-4817-abd9-c9550612b2aa/edit?viewport_loc=-2335%2C-1103%2C3552%2C2043%2C0_0&invitationId=inv_042c6ff6-2437-4936-a98f-5ece635a7e3a)
 
 ## Teknologi yang digunakan
