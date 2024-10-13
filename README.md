@@ -21,3 +21,13 @@ Saya menggunakan teknologi [laravel](https://laravel.com) untuk API saya yang di
 
 (dzakwas01@gmail.com)
 
+GAMBAR HASIL API APLIKASI POSTCATEGORY API.
+
+#LOGIN
+![image](https://github.com/user-attachments/assets/542539fc-74a9-4786-a500-2bec3f94c5f0)
+
+
+#LIST POST
+![image](https://github.com/user-attachments/assets/c12a5e6f-4217-47b9-aede-d1cf8d7d2d02)
+
+
